@@ -1,0 +1,8 @@
+*.dat
+*.exe
+/data
+/ML/data
+.vscode
+.vs/build
+/ML/*.pth
+/ML/*.ipynb_checkpoints
